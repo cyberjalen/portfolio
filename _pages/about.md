@@ -11,7 +11,7 @@ redirect_from:
 
 Avid and continous learner in the cybersecurity domain, specializing in cloud architecture and risk management.
 
-### 👨🏻‍💻 Job Experience
+### <u> 👨🏻‍💻 Job Experience </u>
 <ul>
 <li><s> GenAI Security Intern @ GT Cyber Labs </s></li>
 <li><s> Customer Service Associate @ PostNet </s></li>
@@ -20,7 +20,7 @@ Avid and continous learner in the cybersecurity domain, specializing in cloud ar
 ### <u> 👨🏻‍🔬 Side Projects & Tooling </u>
 
 
-### 📜 Certifications
+### <u> 📜 Certifications </u>
 <ul>
 <li> CompTIA Security+ </li>
 <li> CompTIA A+ </li>
