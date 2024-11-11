@@ -8,5 +8,5 @@ main:
     url: /portfolio/
   
   - title: "Blogs"
-    url: /publications/
-    # url: https://scholar.google.es/citations?user=xxxxxxxx=en
+    # url: /publications/
+    url: https://medium.com/@cyberjalen
