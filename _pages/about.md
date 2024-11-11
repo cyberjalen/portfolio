@@ -19,7 +19,9 @@ Avid and continous learner in the cybersecurity domain, specializing in cloud ar
   </ul>
 
 ### <u> 👨🏻‍🔬 Side Projects & Tooling </u>
-
+<ul>
+<li> <a href="https://github.com/cyberjalen/AWS-Secure-Enivornment">AWS Secure Environment</a> : A secure and scalable cloud environemnt using Amazon Web Services (AWS). The goal is to ensure the resources deployed are well-architected, isolated, and protected against potential security threats. </li>
+  </ul>
 
 ### <u> 📜 Certifications </u>
 <ul>
