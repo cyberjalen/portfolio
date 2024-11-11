@@ -1,6 +1,7 @@
 ---
 title: "001 GenAI Security Trends Presentation"
 excerpt: "A secure and scalable cloud environemnt using Amazon Web Services (AWS). The goal is to ensure the resources deployed are well-architected, isolated, and protected against potential security threats, **2025**.
+<br></br>
 **(GenAI, Data, Security)**"
 collection: portfolio
 ---
