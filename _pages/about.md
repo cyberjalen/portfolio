@@ -9,11 +9,7 @@ redirect_from:
 ---
 
 
-
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
-
-# Selected Experience
+An avid and continous learner in the cybersecurity domain, where I specialize in cloud architecture and risk management, leveraging hands on experience with cloud se and security solutions to design and implement robust, secure systems.
 
 ## 🤖 Open Source Contributions
 I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
