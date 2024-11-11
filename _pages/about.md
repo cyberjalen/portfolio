@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Avid and continous learner in the cybersecurity domain, specializing in cloud architecture and risk management. My goal is to protect data, systems, and businesses from a range of threats and vulnerabilities.
+Avid and continous learner in the cybersecurity domain, specializing in cloud architecture and risk management. My mission is to protect data, systems, and businesses from a range of threats and vulnerabilities.
 
 ### <u> 👨🏻‍💻 Job Experience </u>
 <ul>
