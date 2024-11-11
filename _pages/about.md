@@ -13,8 +13,8 @@ An avid and continous learner in the cybersecurity domain, where I specialize in
 
 ### 👨🏻‍💻 Job Experience
 <ul>
-<li><s> GenAI Security Intern @ GT Cyber Labs
-<li><s> Customer Service Associate @ PostNet
+<li><s> GenAI Security Intern @ GT Cyber Labs </s></li>
+<li><s> Customer Service Associate @ PostNet </s></li>
   </ul>
 
 ## 📜 Reimplementing and Reproducing Papers
