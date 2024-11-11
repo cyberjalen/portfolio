@@ -1,6 +1,6 @@
 ---
-title: "RCPPO"
-excerpt: "Implementation of RCPO into stable-baselines3 PPO. <br/><img src='/images/RCPPO.png'>"
+title: "AWS Secure Environment"
+excerpt: "A secure and scalable cloud environemnt using Amazon Web Services (AWS). The goal is to ensure the resources deployed are well-architected, isolated, and protected against potential security threats. <br/><img src='/images/RCPPO.png'>"
 collection: portfolio
 ---
 
