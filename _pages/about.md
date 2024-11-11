@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-An avid and continous learner in the cybersecurity domain, where I specialize in cloud architecture and risk management, leveraging hands on experience with cloud and security solutions to design and implement robust, secure systems.
+Avid and continous learner in the cybersecurity domain, specializing in cloud architecture and risk management.
 
 ### 👨🏻‍💻 Job Experience
 <ul>
