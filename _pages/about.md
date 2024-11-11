@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Boris!"
+title: "<u> Jalen Shi</u>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
