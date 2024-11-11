@@ -13,6 +13,7 @@ Avid and continous learner in the cybersecurity domain, specializing in cloud ar
 
 ### <u> 👨🏻‍💻 Job Experience </u>
 <ul>
+<li> Looking for opportunities (Current) </li>
 <li><s> GenAI Security Intern @ GT Cyber Labs </s></li>
 <li><s> Customer Service Associate @ PostNet </s></li>
   </ul>
