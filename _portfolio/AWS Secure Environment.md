@@ -1,6 +1,6 @@
 ---
 title: "AWS Secure Environment"
-excerpt: "A secure and scalable cloud environemnt using Amazon Web Services (AWS). The goal is to ensure the resources deployed are well-architected, isolated, and protected against potential security threats.
+excerpt: "A secure and scalable cloud environemnt using Amazon Web Services (AWS). The goal is to ensure the resources deployed are well-architected, isolated, and protected against potential security threats."
 collection: portfolio
 ---
 
