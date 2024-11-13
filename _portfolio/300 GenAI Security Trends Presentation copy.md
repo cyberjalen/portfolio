@@ -1,6 +1,6 @@
 ---
 title: "001 GenAI Security Trends Presentation"
-excerpt: "A presentation and talk on GenAI Areas of Risk, listened to by over 50+ Cybersecurity seniors, directors, and employees**2023**.
+excerpt: "A presentation and talk on GenAI Areas of Risk, listened to by over 50+ Cybersecurity seniors, directors, and employees **2023**.
 <br>
 **(GenAI, Data, Security)**"
 collection: portfolio
