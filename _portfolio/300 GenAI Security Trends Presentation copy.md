@@ -10,4 +10,4 @@ collection: portfolio
 
 <br>
 
-![GenAI Presentation](/images/GenAI%20Presentation.jpg)
+![GenAI Presentation](/images/GenAIPresentation.jpg)
