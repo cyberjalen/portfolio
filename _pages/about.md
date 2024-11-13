@@ -26,6 +26,7 @@ Avid and continous learner in the cybersecurity domain, specializing in cloud ar
 ### <u> 📜 Certifications </u>
 <ul>
 <li> CompTIA Security+ </li>
+<li> AWS Cloud Practitioner </li>
 <li> CompTIA A+ </li>
   </ul>
 
