@@ -7,3 +7,7 @@ collection: portfolio
 ---
 
 ### I delivered a presentation on GenAI Areas of Risk to over 50+ Cybersecurity seniors, directors, and employees from various Fortune 500 companies like Meta, Walmart, and IBM. I discussed topics like Minimizing Prompt Hallucinations, Deepfakes, and GenAI Ethics.
+
+<br>
+
+![GenAI Presentation](/images/GenAI%20Presentation.jpg)
